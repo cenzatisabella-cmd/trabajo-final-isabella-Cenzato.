@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+    color: black;
+    margin: auto;
+}
+
+nav{
+    background-color: red;
+}
+
+main{
+    background-color: rgb(57, 57, 218);
+    padding: auto;
+}
+
+section{
+    background-color: beige;
+    padding: 10px;
+}
+
+footer{
+    background-color: beige;
+}
